@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Md. Muhtasim Fuad
+### Hello there, I'm MD. Muhtasim Fuad
 
 - 💻 I'm a Computer Science and Engineering student at **BRAC University**.
 - 🛡️ Passionate about **Cybersecurity**, software development and building cool tech tools.
